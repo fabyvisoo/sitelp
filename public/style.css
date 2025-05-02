@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1a0069;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+.product {
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 15px;
+    margin: 10px 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+      
+}
+
+img {
+    width: 300px;
+    height: auto; 
+  }
+  
